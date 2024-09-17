@@ -19,3 +19,5 @@ $ - Dollar sign
 [Student View](https://stuview.georgebrown.ca/)
 
 # Experiments
+💜
+👺
